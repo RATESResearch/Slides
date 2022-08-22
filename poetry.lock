@@ -1,0 +1,17 @@
+[[package]]
+name = "src"
+version = "0.0.7"
+description = "UNKNOWN"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "5eeb08d900501ff7bd02b4bf924c98d250eb3b606c8158dce55d5b8890661c11"
+
+[metadata.files]
+src = [
+    {file = "src-0.0.7.zip", hash = "sha256:2a33bd2995800b2d3fc80efb94a300951413e02ede94691aef58bffbd69e5b0e"},
+]

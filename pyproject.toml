@@ -19,7 +19,7 @@ latex_logo = "_static/RATESLogo.png"
 techreviewer = "Andrew Ernest"
 techtitle = "Lead Software Developer"
 finalreviewer = "Andrew Ernest"
-finaltitle = "President & CEO"
+finaltitle = "President and CEO"
 
 [tool.poetry.dependencies]
 python = "^3.8"

@@ -1,0 +1,7 @@
+This is makeindex, version 2.15 [TeX Live 2019] (kpathsea + Thai support).
+Scanning style file ./python.ist.......done (7 attributes redefined, 0 ignored).
+Scanning input file slides.idx....done (142 entries accepted, 0 rejected).
+Sorting entries....done (904 comparisons).
+Generating output file slides.ind....done (211 lines written, 0 warnings).
+Output written in slides.ind.
+Transcript written in slides.ilg.

@@ -26,7 +26,7 @@ finaltitle = PYPROJECT_TOML['tool']['spyce']['finaltitle']
 # -- General configuration ---------------------------------------------------
 
 extensions = [
-'sphinxcontrib.slides',
+'slides.slides',
 'sphinxcontrib.bibtex',
 'sphinx.ext.autodoc',
 'sphinx.ext.todo',

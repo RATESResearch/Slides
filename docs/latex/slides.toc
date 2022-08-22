@@ -1,0 +1,5 @@
+\babel@toc {american}{}
+\contentsline {chapter}{\numberline {1}Sphinx Slides}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Indices and tables}{2}{chapter.2}%
+\contentsline {chapter}{\numberline {A}Glossary}{3}{appendix.A}%
+\contentsline {chapter}{Index}{13}{section*.146}%

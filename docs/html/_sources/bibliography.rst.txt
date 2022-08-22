@@ -1,0 +1,4 @@
+:orphan:
+
+.. bibliography::
+   :all:
