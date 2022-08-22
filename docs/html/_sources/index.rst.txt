@@ -4,7 +4,11 @@ Sphinx extension to extract slide content embedded in narrative content for gene
 
 .. slide:: Table of Contents
 
-      .. include:: slides/index-slides.rst
+      .. toctree::
+            :maxdepth: 2
+            :caption: Contents:
+
+            slides/index
 
 .. toctree::
       :maxdepth: 2

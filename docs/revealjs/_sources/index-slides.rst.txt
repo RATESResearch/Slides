@@ -3,34 +3,9 @@
 Table of Contents
 -----------------
 
-.. include:: slides/index-slides.rst
+.. toctree::
+      :maxdepth: 2
+      :caption: Contents:
 
-.. Created today
-
-Converting Todo Extension
--------------------------
-
-* Copied todo.py
-* Sustituted :code:`todo` for :code:`slide`
-* Copied slidelist code to slideshow
-
-
-Refining SlideShow
-------------------
-
-* Removed :code:`slide_ref`
-
-
-Slide Title
------------
-
-* Subsection of document
-
-
-References
-----------
-
-* `Sphinx Extension Tutorials`_
-
-
+      slides/index
 
