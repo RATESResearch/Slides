@@ -1,0 +1,27 @@
+[build-system]
+requires = [ "poetry-core>=1.0.0",]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "slides"
+version = "0.1.0"
+description = "Sphinx extension to extract slide content embedded in narrative content for generating sphinx-revealjs presentations."
+authors = [ "Andrew Ernest <anernest@ratesresearch.org>",]
+license = "MIT"
+
+[tool.spyce]
+copyright_year = "2022"
+organization = "Research, Applied Technology, Education and Service, Inc."
+sponsor = "Research, Applied Technology, Education and Service, Inc."
+document_id = "Manual"
+html_logo = "_static/RATESLogo.png"
+latex_logo = "_static/RATESLogo.png"
+techreviewer = "Andrew Ernest"
+techtitle = "Lead Software Developer"
+finalreviewer = "Andrew Ernest"
+finaltitle = "President & CEO"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
