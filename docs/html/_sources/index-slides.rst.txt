@@ -7,5 +7,5 @@ Table of Contents
       :maxdepth: 2
       :caption: Contents:
 
-      slides/index
+      slides/index-slides
 

@@ -8,7 +8,7 @@ Sphinx extension to extract slide content embedded in narrative content for gene
             :maxdepth: 2
             :caption: Contents:
 
-            slides/index
+            slides/index-slides
 
 .. toctree::
       :maxdepth: 2
