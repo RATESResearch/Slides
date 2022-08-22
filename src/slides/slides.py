@@ -107,9 +107,13 @@ class SlideDomain(Domain):
         
         if len(list(document.findall(slide_node))):
             sliname = os.path.join('src',docname + '-slides.rst')
+            print('**************************', document[0][0][0])
             print("Creating file", sliname)
             with open(sliname, "w") as f:
-                f.write(".. Created today \n")
+                f.write(document[0][0][0])
+                f.write("\n")
+                f.write(len(document[0][0][0])*"=")
+                f.write("\n")                
         slides = self.slides.setdefault(docname, [])
         for slide in document.findall(slide_node):
             env.app.emit('slide-defined', slide)

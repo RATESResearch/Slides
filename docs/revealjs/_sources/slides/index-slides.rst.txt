@@ -1,4 +1,5 @@
-.. Created today 
+Sphinx Slides
+=============
 
 Converting Todo Extension
 -------------------------

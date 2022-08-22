@@ -1,9 +1,10 @@
 \babel@toc {american}{}
-\contentsline {chapter}{\numberline {1}Converting Todo Extension}{2}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Refining SlideShow}{3}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Slide Title}{4}{chapter.3}%
-\contentsline {chapter}{\numberline {4}References}{5}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Sphinx Slides}{6}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Indices and tables}{7}{chapter.6}%
-\contentsline {chapter}{\numberline {A}Glossary}{8}{appendix.A}%
-\contentsline {chapter}{Index}{18}{section*.146}%
+\contentsline {chapter}{\numberline {1}Sphinx Slides}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Converting Todo Extension}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Refining SlideShow}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Slide Title}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}References}{2}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Sphinx Slides}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Indices and tables}{4}{chapter.3}%
+\contentsline {chapter}{\numberline {A}Glossary}{5}{appendix.A}%
+\contentsline {chapter}{Index}{15}{section*.146}%
