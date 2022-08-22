@@ -1,10 +1,10 @@
 # Fdb version 3
-["makeindex slides.idx"] 1661170629 "slides.idx" "slides.ind" "slides" 1661170630
-  "slides.idx" 1661170630 9862 3f28af6e91f71f96fe40cac1724b1f08 "pdflatex"
+["makeindex slides.idx"] 1661170977 "slides.idx" "slides.ind" "slides" 1661170977
+  "slides.idx" 1661170977 9862 3f28af6e91f71f96fe40cac1724b1f08 "pdflatex"
   (generated)
   "slides.ind"
   "slides.ilg"
-["pdflatex"] 1661170629 "slides.tex" "slides.pdf" "slides" 1661170630
+["pdflatex"] 1661170977 "slides.tex" "slides.pdf" "slides" 1661170977
   "/etc/texmf/web2c/texmf.cnf" 1659728051 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1136768653 3584 f80ddd985bd00e29e9a6047ebd9d4781 ""
@@ -147,13 +147,13 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1659728058 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1659728061 4791331 21b234131103493a9cf1b3f64ae55c03 ""
   "RATESLogo.png" 1661161564 26998 108372dd801907ba04066719dce2d2ad ""
-  "slides.aux" 1661170630 50169 b2f755fdc88aa9f77ff71df12e54ee84 "pdflatex"
-  "slides.ind" 1661170629 9253 74fa22248449d30f8e14ad4aa4f7ed69 "makeindex slides.idx"
-  "slides.out" 1661170630 405 0db787144724e9042bc764dc6e23ddce "pdflatex"
-  "slides.tex" 1661170629 38452 2674cdc78cfc58ffa33a1cf5d999b3c9 ""
-  "slides.toc" 1661170630 282 2e656ada46cde8302e4c58db7a2d34d8 "pdflatex"
+  "slides.aux" 1661170977 50169 b2f755fdc88aa9f77ff71df12e54ee84 "pdflatex"
+  "slides.ind" 1661170977 9253 74fa22248449d30f8e14ad4aa4f7ed69 "makeindex slides.idx"
+  "slides.out" 1661170977 405 0db787144724e9042bc764dc6e23ddce "pdflatex"
+  "slides.tex" 1661170976 38452 2674cdc78cfc58ffa33a1cf5d999b3c9 ""
+  "slides.toc" 1661170977 282 2e656ada46cde8302e4c58db7a2d34d8 "pdflatex"
   "sphinx.sty" 1660128024 32189 d0cac7437f49bba7eff72a1cb5cf27a0 ""
-  "sphinxhighlight.sty" 1661170629 7490 72d023191655734567e0798eade2a1f7 ""
+  "sphinxhighlight.sty" 1661170976 7490 72d023191655734567e0798eade2a1f7 ""
   "sphinxlatexadmonitions.sty" 1660128024 10155 37f3cbe6b251ec0f2ce20d0b8c4fa3d7 ""
   "sphinxlatexcontainers.sty" 1660128024 901 d3a3a1b7b2547f47ade2499350b5c420 ""
   "sphinxlatexgraphics.sty" 1660128024 4840 a9578332b6f3b35e198751fb632c9b79 ""
@@ -168,15 +168,15 @@
   "sphinxlatexstyletext.sty" 1660128024 6310 230e9c67ef82453e767773679e1f6816 ""
   "sphinxlatextables.sty" 1660128024 21848 2827eb0b11b99b185a8b77317d3e131c ""
   "sphinxmanual.cls" 1660128024 4241 7b0d7a37df7b5715fb0dbd585c52ecdb ""
-  "sphinxmessages.sty" 1661170629 746 fc80bb85c5bbe3843798c9c04f59daff ""
+  "sphinxmessages.sty" 1661170976 746 fc80bb85c5bbe3843798c9c04f59daff ""
   "sphinxoptionsgeometry.sty" 1660128024 2061 47bb34b8ed8a78823eb0c886abfb9f4d ""
   "sphinxoptionshyperref.sty" 1660128024 1094 79beb8b8a3f10784f8cce804e0f9d3aa ""
   "sphinxpackageboxes.sty" 1660128024 18408 cacf96116848f46194438f1e659006ed ""
   "sphinxpackagefootnote.sty" 1660128024 15217 dd26fe418b6fb1b26b18f042a7f43d40 ""
   (generated)
   "slides.out"
+  "slides.aux"
   "slides.pdf"
   "slides.idx"
-  "slides.log"
   "slides.toc"
-  "slides.aux"
+  "slides.log"
